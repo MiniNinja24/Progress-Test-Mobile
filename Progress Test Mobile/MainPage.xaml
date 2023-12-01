@@ -73,7 +73,7 @@
                 <Label Grid.Row="0" Grid.Column="0" TextColor="White" Text="$7.5m" FontSize="Small" FontAttributes="Bold" HorizontalOptions="Center" HorizontalTextAlignment="Center" Padding="0,0,0,0" />
                 <Label Grid.Row="1" Grid.Column="0" TextColor="White" Text="Record " FontSize="Small" HorizontalOptions="Center" HorizontalTextAlignment="Center" Padding="0,0,0,0" />
                 <Label Grid.Row="0" Grid.Column="1" TextColor="White" Text="$3.5m" FontSize="Small" FontAttributes="Bold" HorizontalOptions="Center" HorizontalTextAlignment="Center" Padding="0,0,0,0" />
-                    <Label Grid.Row="1" Grid.Column="1" TextColor="White" Text="Avergae" FontSize="Small"  HorizontalOptions="Center" HorizontalTextAlignment="Center" Padding="0,0,0,0" />
+                    <Label Grid.Row="1" Grid.Column="1" TextColor="White" Text="Average" FontSize="Small"  HorizontalOptions="Center" HorizontalTextAlignment="Center" Padding="0,0,0,0" />
                     <Label Grid.Row="0" Grid.Column="2" TextColor="White" Text="+598%" FontSize="Small" FontAttributes="Bold" HorizontalOptions="Center" HorizontalTextAlignment="Center" Padding="0,0,0,0" />
                     <Label Grid.Row="1" Grid.Column="2" TextColor="White" Text="General" FontSize="Small"  HorizontalOptions="Center" HorizontalTextAlignment="Center" Padding="0,0,0,0" />
                     <Label Grid.Row="0" Grid.Column="3" TextColor="White" Text="12" FontSize="Small" FontAttributes="Bold" HorizontalOptions="Center" HorizontalTextAlignment="Center" Padding="0,0,0,0" />
